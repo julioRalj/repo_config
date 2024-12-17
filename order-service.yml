@@ -2,4 +2,4 @@ server:
   port: 8081
 
 app:
-  message: "Hola mundo, estas es mi primera confirguración."
+  message: "Configuracion 1"
